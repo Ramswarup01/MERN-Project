@@ -2,7 +2,7 @@ import React , {useState , useEffect} from 'react'
 import axios from "axios";
 
 
-const BASE_URL = "https://mern-project-0dt5.onrender.com";
+const BASE_URL =  "https://mern-project-0dt5.onrender.com"
 
 const TransactionList = ({userId}) => {
 
